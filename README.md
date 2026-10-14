@@ -1,0 +1,1 @@
+este es un proyecto de eamb, un principiante que desarrolla este projecto apoyandose de ia y otra herramientas para lograr un juego de pixel art con inspiraciones en undertale,celeste y god of war betrayal
